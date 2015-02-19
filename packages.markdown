@@ -3,12 +3,14 @@
 - Alignment
 - BracketHighlighter
 - Color Highlighter
+- Gutter Color
 - Emmet
 - GitGutter
 - Markdown Preview
 - SidebarEnhancements
 - DocBlockr
 - AutoFileName
+- Origami
 
 I also install different sytax highlighting packages as needed, such as for Stylus, Sass, and Jade.
 
