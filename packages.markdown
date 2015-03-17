@@ -30,3 +30,7 @@ The [Package Control](https://packagecontrol.io/) site will also let you search 
 ## Opening Sublime from the Command Line
 
 I also always open Sublime from the command line. Here's the official line on setting that up: [https://www.sublimetext.com/docs/3/osx_command_line.html](https://www.sublimetext.com/docs/3/osx_command_line.html). If that doesn't work, you can also just create an alias for it in your bash profile.
+
+## Using Sublime as your git editor
+
+I also use Sublime to write my git commit messages. Follow the github directions [here](https://help.github.com/articles/associating-text-editors-with-git/) to make that work.
